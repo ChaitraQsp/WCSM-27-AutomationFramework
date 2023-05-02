@@ -7,6 +7,7 @@
         <methods>
           <include name="acConfig"/>
           <include name="asConfig"/>
+          <include name="demo"/>
           <include name="createOrgTest"/>
           <include name="bsConfig"/>
           <include name="bmConfig"/>
