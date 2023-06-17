@@ -69,6 +69,39 @@
     <scope>provided</scope>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.28</version>
+</dependency>
+
+  
+    <!-- This is API testing tool for Restful web services -->
+    <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+	<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>5.3.0</version>
+	</dependency>
+   
+  
+    <!-- This is a parser for java - json combination -->
+  	<!-- https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl -->
+	<dependency>
+    <groupId>org.codehaus.jackson</groupId>
+    <artifactId>jackson-mapper-asl</artifactId>
+    <version>1.9.13</version>
+	</dependency>
+	
+	<!-- This tool is used for creating json object -->
+	<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+	<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+	</dependency>
+
 
 </dependencies>
 
